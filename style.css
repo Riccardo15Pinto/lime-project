@@ -1,0 +1,76 @@
+*{
+  box-sizing: border-box;
+}
+
+.img{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.sfondo{
+  background-position: center;
+  background-color:rgba(0, 0, 0, 0.4);
+  width: 1200px;
+  height: 900px;
+  border-radius: 3%;
+  margin-left: 20%;
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 20%;
+  height: 20%;
+  margin-top: 10%;
+}
+
+.AB{
+  color: lime;
+}
+
+.space{
+  width: 1000px;
+  margin-left: 100px;
+}
+
+.nav{
+  background-color: lime;
+  text-align: center;
+  padding-top: 10px;
+  height: 40px;
+}
+
+.info{
+  color: white;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+span{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.carica1{
+  width: 320px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 10px;
+}
+
+.carica2{
+  width: 680px;
+  height: 30px;
+  background-color: lime;
+  border-radius: 10px;
+}
+
+.carica3{
+  width: 150px;
+  height: 30px;
+  background-color: red;
+  border-radius: 10px;
+}
